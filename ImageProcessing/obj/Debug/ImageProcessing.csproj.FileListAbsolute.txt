@@ -1,0 +1,9 @@
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\ИЛЬЯ\ЛГТУ\Магистратура\1 курс\2 семестр\Организация графических систем и систем мультимедиа\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
